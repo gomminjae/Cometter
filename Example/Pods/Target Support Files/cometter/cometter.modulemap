@@ -1,6 +1,0 @@
-framework module cometter {
-  umbrella header "cometter-umbrella.h"
-
-  export *
-  module * { export * }
-}

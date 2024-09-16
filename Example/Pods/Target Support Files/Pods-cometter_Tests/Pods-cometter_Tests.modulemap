@@ -1,6 +1,0 @@
-framework module Pods_cometter_Tests {
-  umbrella header "Pods-cometter_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
