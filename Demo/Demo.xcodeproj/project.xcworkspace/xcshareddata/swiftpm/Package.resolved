@@ -1,0 +1,15 @@
+{
+  "originHash" : "f59f0046297b0149ebfac0bbcbf57a2f3d68658c5fffdd0f5cc429c171bcc968",
+  "pins" : [
+    {
+      "identity" : "cometter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gomminjae/Cometter",
+      "state" : {
+        "revision" : "824a18311bf1733b8b363de265439292d0030c7c",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
