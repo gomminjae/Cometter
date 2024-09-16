@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '16.0'
+
+target 'cometter_Example' do
+  pod 'Cometter'
+
+  target 'cometter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - cometter (0.1.0)
+
+DEPENDENCIES:
+  - cometter (from `../`)
+
+EXTERNAL SOURCES:
+  cometter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  cometter: 6eca5f71ae4184223c61e8c37d4b39f928f00227
+
+PODFILE CHECKSUM: bc281d3af5af0849e18174a1c8ee9c6845ee5a7c
+
+COCOAPODS: 1.15.2
