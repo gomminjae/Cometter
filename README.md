@@ -16,6 +16,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ```swift
 let cometter = Cometter()
 cometter.particleImage = UIImage(named: "{your particle image}")
+view.addSubview(cometter)
+cometter.enableGestures = [.pin,.tap] // we have 2 gestures
 ```
 ## Installation
 
