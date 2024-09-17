@@ -1,4 +1,4 @@
-# cometter
+# Cometter
 [![Version](https://img.shields.io/cocoapods/v/YourLibraryName.svg?style=flat)](https://cocoapods.org/pods/Cometter)
 [![License](https://img.shields.io/cocoapods/l/YourLibraryName.svg?style=flat)](https://cocoapods.org/pods/Cometter)
 [![Platform](https://img.shields.io/cocoapods/p/YourLibraryName.svg?style=flat)](https://cocoapods.org/pods/Cometter)
