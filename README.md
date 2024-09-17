@@ -3,11 +3,17 @@
 [![License](https://img.shields.io/cocoapods/l/cometter.svg?style=flat)](https://cocoapods.org/pods/Cometter)
 [![Platform](https://img.shields.io/cocoapods/p/cometter.svg?style=flat)](https://cocoapods.org/pods/Cometter)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+## Installation
+
+cometter is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'Cometter'
+```
 
 ## At a Glance 
 
@@ -17,14 +23,7 @@ cometter.particleImage = UIImage(named: "{your particle image}")
 view.addSubview(cometter)
 cometter.enableGestures = [.pin,.tap] // we have 2 gestures
 ```
-## Installation
 
-cometter is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'Cometter'
-```
 
 ## Author
 
