@@ -1,6 +1,4 @@
 # cometter
-
-[![CI Status](https://img.shields.io/travis/gomminjae/cometter.svg?style=flat)](https://travis-ci.org/gomminjae/Cometter)
 [![Version](https://img.shields.io/cocoapods/v/cometter.svg?style=flat)](https://cocoapods.org/pods/Cometter)
 [![License](https://img.shields.io/cocoapods/l/cometter.svg?style=flat)](https://cocoapods.org/pods/Cometter)
 [![Platform](https://img.shields.io/cocoapods/p/cometter.svg?style=flat)](https://cocoapods.org/pods/Cometter)
