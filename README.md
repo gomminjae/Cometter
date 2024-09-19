@@ -14,10 +14,23 @@
 cometter is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
+### Podfile
 ```ruby
 pod 'Cometter'
 ```
 
+### Package.swift 
+```swift
+let package = Package(
+  name: "MyPackage",
+  dependencies: [
+    .package(url: "https://github.com/gomminjae/Cometter.git")
+  ],
+  targets: [
+    .target(name: "MyTarget", dependencies: ["Cometter"])
+  ]
+)
+```
 ## At a Glance 
 
 ```swift
